@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "employer": "Radiant Industries",
+        "position": "Operations Associate",
+        "soft_skills": ["communication", "teamwork"],
+        "experience": {
+            "coding": 2,
+            "project_management": 3,
+            "data_analysis": 4
+        },
+        "hard_skills": {
+            "coding": ["Python", "SQL"],
+            "tools": ["Excel", "Tableau"]
+        },
+        "education": {
+            "level": "bachelor",
+            "status": "completed"
+        },
+        "interests": "process optimization",
+        "contact": {
+            "email": "applicant1@example.com",
+            "phone": "555-1234",
+            "linkedin": "linkedin.com/in/applicant1",
+            "application": "app123.pdf"
+        }
+    },
+    {
+        "id": 2,
+        "employer": "Tech Corp",
+        "position": "Data Analyst",
+        "soft_skills": ["critical thinking", "problem-solving"],
+        "experience": {
+            "coding": 3,
+            "statistics": 5,
+            "data_visualization": 4
+        },
+        "hard_skills": {
+            "coding": ["R", "Python"],
+            "tools": ["PowerBI", "Excel"]
+        },
+        "education": {
+            "level": "master",
+            "status": "completed"
+        },
+        "interests": "big data",
+        "contact": {
+            "email": "analyst2@example.com",
+            "phone": "555-5678",
+            "linkedin": "linkedin.com/in/analyst2",
+            "application": "app456.pdf"
+        }
+    },
+    {
+        "id": 3,
+        "employer": "Finance Inc.",
+        "position": "Financial Analyst",
+        "soft_skills": ["detail-oriented", "adaptability"],
+        "experience": {
+            "coding": 1,
+            "financial_modeling": 5,
+            "reporting": 4
+        },
+        "hard_skills": {
+            "coding": ["VBA"],
+            "tools": ["Excel", "SAP"]
+        },
+        "education": {
+            "level": "bachelor",
+            "status": "completed"
+        },
+        "interests": "investment strategies",
+        "contact": {
+            "email": "finance3@example.com",
+            "phone": "555-7890",
+            "linkedin": "linkedin.com/in/finance3",
+            "application": "app789.pdf"
+        }
+    },
+    {
+        "id": 4,
+        "employer": "Creative Studio",
+        "position": "UX Designer",
+        "soft_skills": ["creativity", "empathy"],
+        "experience": {
+            "coding": 1,
+            "design": 4,
+            "user_research": 3
+        },
+        "hard_skills": {
+            "coding": ["HTML", "CSS"],
+            "tools": ["Figma", "Sketch"]
+        },
+        "education": {
+            "level": "associate",
+            "status": "completed"
+        },
+        "interests": "user experience design",
+        "contact": {
+            "email": "designer4@example.com",
+            "phone": "555-2345",
+            "linkedin": "linkedin.com/in/designer4",
+            "application": "app321.pdf"
+        }
+    },
+    {
+        "id": 5,
+        "employer": "EduTech",
+        "position": "Instructional Designer",
+        "soft_skills": ["organization", "instructional writing"],
+        "experience": {
+            "coding": 2,
+            "curriculum_development": 5,
+            "e_learning": 4
+        },
+        "hard_skills": {
+            "coding": ["JavaScript"],
+            "tools": ["Articulate 360", "Camtasia"]
+        },
+        "education": {
+            "level": "master",
+            "status": "completed"
+        },
+        "interests": "educational technologies",
+        "contact": {
+            "email": "educator5@example.com",
+            "phone": "555-4567",
+            "linkedin": "linkedin.com/in/educator5",
+            "application": "app654.pdf"
+        }
+    }
+]

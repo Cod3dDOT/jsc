@@ -1,3 +1,3 @@
-export default function Onboarding() {
+export default function OnBoarding() {
     return <div></div>;
 }
